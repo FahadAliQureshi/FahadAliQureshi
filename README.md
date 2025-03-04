@@ -1,7 +1,7 @@
 # 👋 Hey there! Here's a snapshot:
 
 ### 🚀 Full Stack Software Engineer with 4+ Years of Experience
-#### MERN Stack Engineer | JavaScript Developer | React | Next.js | TypeScript | Web3 | Node | Express | Mongodb | Mysql
+#### MERN Stack Engineer | JavaScript Developer | React | Next.js | TypeScript | Web3 | Node | Nest | Express | Mongodb | Mysql
 
 ---
 
